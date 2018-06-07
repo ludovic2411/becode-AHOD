@@ -15,8 +15,17 @@
   margin-right: auto;
   text-align: center;
 }
+.presentation{
+  margin-top: 6em;
+}
+.concept{
+  margin-top: 6em;
+}
+.formations{
+  margin-top: 6em;
+}
 .formations-grid{
-  margin-top: 4em;
+  margin-top: 2em;
   display: grid;
   grid-template-columns: repeat(3,1fr);
   grid-column-gap: 1em;
