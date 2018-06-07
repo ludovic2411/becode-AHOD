@@ -1,1 +1,32 @@
-
+@keyframes bouncing_button{
+  from{transform: translateY(0px);}
+  to {transform: translateY(50px);}
+}
+.donate_button{
+  animation-name: bouncing_button;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: linear;
+}
+.page-container{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.formations-grid{
+  margin-top: 4em;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-column-gap: 1em;
+}
+.who{
+  grid-column: 1;
+}
+.what{
+  grid-column: 2;
+}
+.when{
+  grid-column: 3;
+}
