@@ -1,1 +1,26 @@
+    
+body{
+    
+}
 
+.bigtitle{
+    font-family: 'Lobster', cursive;
+
+}
+
+.bottomback{
+    background-image: linear-gradient(to right, #91bd10  0%, #38f9d7  100%);
+}
+
+.bottombackbis{
+    background-image: url(backgroundhaut.png);
+}
+
+
+
+@media screen and (max-width: 640px) {
+  .video {
+    width: 75%;
+}
+    
+    
