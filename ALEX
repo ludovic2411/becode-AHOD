@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <title>IDR</title>
+  </head>
+
+  <body>
+<!-- HEADER -->
+      <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <img src="logo.png" alt="" />
+          </div>
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#nav_00">Home</a></li>
+            <li><a href="#nav_01">Qui sommes nous ?</a></li>
+            <li><a href="#nav_02">But principal</a></li>
+            <li><a href="#nav_03">Formations proposées</a></li>
+            <li><a href="#nav_04">Nos histoires</a></li>
+            <li><a href="#nav_05">Fiches informatives</a></li>
+          </ul>
+        </div>
+      </nav>
+
+<!-- CONTAINER : START -->
+  <div class="main_container">
+
+    <!-- JUMBOTRON -->
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">Infirmière De Rue</h1>
+        <p class="lead">Ensemble, mettre fin au sans abrisme. </p>
+      </div>
+    </div>
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4"><button> Faire Un Don </button></h1>
+        <p class="lead"></p>
+      </div>
+    </div>
+
+    <!-- INSERER CODE : QUI SOMMES NOUS ?  Jusq'à but principal -->
+
+    <div class="row">     <!-- BUT PRINCIPAL -->
+      <div class="col-md-12 col-12">
+        <h2>But principal</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <p>Les projets basés sur le modèle Housing First (Tsemberis & al. 2004) ciblent des personnes sans-abri cumulant précarité sociale, maladie mentale, assuétudes et affections physiques, et font le pari que leur accès et leur maintien en logement sont non seulement possibles mais également souhaitables. Le logement est individuel et à loyer modéré. Il est accessible immédiatement depuis la rue ou les services d’urgence, sans condition de traitement ni d’abstinence, via un bail standard   (illimité dans le temps) et dispersé dans la ville. L’expulsion a lieu uniquement en cas de non-respect des règles de la location. L’accompagnement est potentiellement intensif, mobile et sur mesure, fait par une équipe pluridisciplinaire. Le suivi est proposé aussi longtemps que nécessaire (même après expulsion).
+          Comment nous aider ? Proposer un logement Nous sommes actuellement à la recherche de propriétaires privés solidaires, ainsi que de partenariats avec des AIS, SISP, communes et CPAS de la Région Bruxelloise pouvant louer des studios ou appartements aux bénéficiaires du projet. Le housing First, ça marche! Les anciens sans-abri retrouvent leur estime de soi et se réinsèrent peu à peu dans la société. Nos résultats sont très positifs avec 96% des loyers qui sont payés à temps et 92% de taux de maintien en logement. Nous prenons en charge de manière sérieuse et proactive les relations avec le voisinage.
+        </p>
+      </div>
+    </div>
+
+    <div class="row">     <!-- Formations proposées -->
+      <div class="col-md-12 col-12">
+        <h2>Formations proposées</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <h3>Pour qui ?</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <p>Pour tout acteurs susceptibles d'être confrontés à des personnes en précarité</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <h3>Objectifs: Module hygiène et Module précarité</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <ul>
+          <li>Comment conseiller à quelqu’un de se laver ?</li>
+          <li>Comment désarmer la crainte de mal faire ou de blesser l’autre ?</li>
+          <li>Comment bien cerner les différents stades de vulnérabilité?</li>
+          <li>Comment ouvrir la discussion et appliquer les méthodes adéquates pour aider la personne, sans lui faire perdre la face?</li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <h3>Quoi ?</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <p>Formations pour préparer et aider les professionnels (infirmiers et futurs infirmiers, travailleurs sociaux, agents de sécurité et de nettoyage, ...) à prendre en charge ce type de patient et à aborder plus facilement les thèmes de l’hygiène et de la santé. Chaque année, IDR réalise, en outre, des sessions de sensibilisation auprès d’étudiants dans les écoles d’infirmiers. En 2017, IDR donnera environ 20 modules de formation, et touchera ainsi une centaine de professionnels.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <h3>Quand ?</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <ul>
+          <li>7 juin 2018 : 1 jour de 9h30 à 16h30 (en 1 jour)
+            <a href="https://pro.guidesocial.be/php/formations.php?detailagenda=19255&utm_source=mail_auto&utm_medium=Email&utm_campaign=annonce_en_ligne">Informations supplémentaires:</a>
+          </li>
+          <li>4 et 18 octobre 2018: de 9h30 à 16h30 (en 2 jours)</li>
+          <li>15 novembre: de 9h30 à 16h30 (en 1 jour)</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  
+  </body>
+
+</html>
